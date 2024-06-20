@@ -1,0 +1,24 @@
+Drug Recommendation System based on Sentiment Analysis of Drug Reviews using Machine Learning
+
+Drug, Recommender System, Machine Learning,NLP, Smote, Bow, TF-IDF, Word2Vec, Sentiment analysis
+
+
+Drug_Recommendation_System
+
+drug_recommendation_system
+
+
+Model -- drug_recommendation
+
+
+drug_recommendation_Type
+
+
+Drug_Review
+Prediction
+
+
+
+Models
+
+drug_recommendation_Type,detection_ratio,detection_accuracy
